@@ -1,0 +1,21 @@
+Write 10 candidates for a one-line excuse to skip a pointless work meeting or Zoom call.
+
+Constraints (from the bounty kit):
+- Exactly ONE line, at most 200 characters.
+- It must read as a funny excuse for skipping a pointless meeting — on-subject beats everything.
+- The judge pairs entries head to head and keeps the sharper, more relatable laugh. It weighs, in order: (1) on-subject funny excuse, (2) a sharp, surprising turn that earns a real laugh, not a mild smile, (3) true to office life (the laugh arrives with a nod of recognition), (4) one tight line with no wasted words, (5) a fresh angle — stock excuses about bad wifi, a cat, or a dentist explicitly lose.
+- No explanation needed: an excuse that needs explaining has already lost the laugh.
+
+Explore DIFFERENT angles across the 10 candidates — do not repeat one joke shape:
+1. Brutal honesty about the agenda itself.
+2. A recurring-meeting time joke (same meeting, different year).
+3. Corporate scheduling language turned against the meeting.
+4. Quantified absurdity (meeting length vs decision time).
+5. A tool (calendar, camera, laptop) rebelling on the worker's behalf.
+6. Recursion: a meeting about a meeting about a meeting.
+7. HR / corporate-jargon weaponized.
+8. Existential despair dressed as paperwork.
+9. A tech-support framing that is NOT the wifi excuse.
+10. A rule-of-three list of what's wrong with the invite.
+
+For each candidate give: the line, its character count, and one short paragraph on why it is strong or where it falls short (sharpness of the turn, relatability, freshness). Then pick ONE final winner — the line most likely to survive head-to-head judging against typical wifi/cat/dentist entries — and explain the pick in two sentences.
